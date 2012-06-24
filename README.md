@@ -6,7 +6,7 @@ CocoaPods - https://github.com/CocoaPods/CocoaPods
 
 Installation
 ----
-> pod repo add slightair https://github.com/slightair/Specs
+    > pod repo add slightair https://github.com/slightair/Specs
 
 podspecs
 ----
